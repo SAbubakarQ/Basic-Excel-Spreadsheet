@@ -23,23 +23,23 @@ To view the value in the cell, "PRINT A1 B10" can be used to see values from A1 
   
   Enter desired operation: PRINT A1 B10
   
-  42      0
+  42         0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
+  0          0
   
-  0       0
-  
-  0       0
+  0          0
+     
+  0          0
   

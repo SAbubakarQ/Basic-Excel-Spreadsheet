@@ -11,3 +11,20 @@ The Basic Excel Spreadsheet is a C++ code that functions as a simple spreadsheet
 * PRINT (Print) - Prints the excel sheet according to the user's input with its current values.
 * QUIT (Quit) - Quits the program. 
 * CMDList (Command List) - Displays the command list in the terminal window for no need of scrolling to the top to see the commands. 
+
+
+A sample command would be "STORE 42 A1" which will store the value 42 in cell block A1. 
+To view the value in the cell, "PRINT A1 B10" can be used to see values from A1 to B10 on the spreadsheet. 
+  It will output:
+  Enter desired operation: STORE 42 A1
+  Enter desired operation: PRINT A1 B10
+  42      0
+  0       0
+  0       0
+  0       0
+  0       0
+  0       0
+  0       0
+  0       0
+  0       0
+  0       0

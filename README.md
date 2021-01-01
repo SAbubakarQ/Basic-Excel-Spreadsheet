@@ -1,4 +1,7 @@
 ## Basic-Excel-Spreadsheet
+
+### C++ Basic Excel Spreadsheet 
+
 The Basic Excel Spreadsheet is a C++ code that functions as a simple spreadsheet. It has the following operations: store, randomize, minimum, maximum, average, summation, variance, standard deviation, print, and quit. 
 * STORE (store) - Stores the user's written value into the desired cell.
 * RANDOMIZE (Randomize) - Sets a random value within each cell between the user's number range and cells chosen. 
